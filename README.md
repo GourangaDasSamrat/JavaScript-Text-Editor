@@ -4,7 +4,7 @@
 A simple and lightweight text editor built with HTML, CSS, and JavaScript. This editor provides a user-friendly interface with various text formatting options, making it easy to create and edit documents.
 
 🌟 **Live Demo**
-Check out the live version of the website: [JavaScrip Text Editor]()
+Check out the live version of the website: [JavaScrip Text Editor](https://javascripttexteditorbygouranga.tiiny.site/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
@@ -47,7 +47,7 @@ Enjoy view this site.!
 
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://javascripttexteditorbygouranga.tiiny.site/) to see this project on internet.**
 
 ##  Contributing
 
