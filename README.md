@@ -9,6 +9,10 @@ Check out the live version of the website: [JavaScrip Text Editor](https://javas
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
 
+
+https://github.com/user-attachments/assets/4d579d23-7aa8-48e0-8e17-9953b5faf662
+
+
 ## ✨ Features ✨
 
 *   **Font Selection:** Choose from a variety of fonts to customize your text.
