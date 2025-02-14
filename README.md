@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/4d579d23-7aa8-48e0-8e17-9953b5faf662
 
 Here's a quick overview of the project's file structure:
 
-📂E-commerce Website/
+📂JavaScript Text Editor/
 ├── index.html
 ├── style.css
 └── script.js
